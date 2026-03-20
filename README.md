@@ -20,13 +20,14 @@ If you are interested in previous versions os this leaderboard:
 </table>
 
 <!-- LEADERBOARD_START -->
-Last updated on March 10, 2026
+Last updated on March 20, 2026
 
-![Plot: hallucination rates of various LLMs](./img/top25_hallucination_rates_2026-03-06.png)
+![Plot: hallucination rates of various LLMs](./img/top25_hallucination_rates_2026-03-20.png)
 
 |Model|Hallucination Rate|Factual Consistency Rate|Answer Rate|Average Summary Length (Words)|
 |----|----:|----:|----:|----:|
 |antgroup/finix_s1_32b|1.8 %|98.2 %|99.5 %|172.4|
+|openai/gpt-5.4-nano-2026-03-17|3.1 %|96.9 %|100.0 %|144.4|
 |google/gemini-2.5-flash-lite|3.3 %|96.7 %|99.5 %|95.7|
 |microsoft/Phi-4|3.7 %|96.3 %|80.7 %|120.9|
 |meta-llama/Llama-3.3-70B-Instruct-Turbo|4.1 %|95.9 %|99.5 %|64.6|
@@ -43,6 +44,7 @@ Last updated on March 10, 2026
 |qwen/qwen3-14b|5.4 %|94.6 %|99.9 %|111.1|
 |amazon/nova-micro-v1:0|5.5 %|94.5 %|100.0 %|100.0|
 |deepseek-ai/DeepSeek-V3.1|5.5 %|94.5 %|94.5 %|63.7|
+|openai/gpt-5.4-mini-2026-03-17|5.5 %|94.5 %|100.0 %|54.7|
 |openai/gpt-4.1-2025-04-14|5.6 %|94.4 %|99.9 %|91.7|
 |qwen/qwen3-4b|5.7 %|94.3 %|99.9 %|104.7|
 |xai-org/grok-3|5.8 %|94.2 %|93.0 %|95.9|
