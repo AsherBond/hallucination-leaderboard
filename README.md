@@ -20,9 +20,9 @@ If you are interested in previous versions os this leaderboard:
 </table>
 
 <!-- LEADERBOARD_START -->
-Last updated on March 20, 2026
+Last updated on April 20, 2026
 
-![Plot: hallucination rates of various LLMs](./img/top25_hallucination_rates_2026-03-20.png)
+![Plot: hallucination rates of various LLMs](./img/top25_hallucination_rates_2026-04-20.png)
 
 |Model|Hallucination Rate|Factual Consistency Rate|Answer Rate|Average Summary Length (Words)|
 |----|----:|----:|----:|----:|
@@ -39,6 +39,7 @@ Last updated on March 20, 2026
 |amazon/nova-2-lite-v1:0|5.1 %|94.9 %|99.6 %|94.1|
 |mistralai/mistral-small-2501|5.1 %|94.9 %|97.9 %|98.8|
 |ibm-granite/granite-4.0-h-small|5.2 %|94.8 %|100.0 %|107.4|
+|google/gemma-4-26b-a4b-it|5.2 %|94.8 %|99.8 %|67.1|
 |ai21labs/jamba-mini-2|5.3 %|94.7 %|99.6 %|109.4|
 |deepseek-ai/DeepSeek-V3.2-Exp|5.3 %|94.7 %|96.6 %|64.6|
 |qwen/qwen3-14b|5.4 %|94.6 %|99.9 %|111.1|
@@ -59,6 +60,7 @@ Last updated on March 20, 2026
 |google/gemini-2.5-pro|7.0 %|93.0 %|99.1 %|106.4|
 |mistralai/ministral-3b-2410|7.3 %|92.7 %|99.9 %|167.9|
 |google/gemma-3-27b-it|7.4 %|92.6 %|98.8 %|96.4|
+|google/gemma-4-31b-it|7.4 %|92.6 %|100.0 %|75.8|
 |mistralai/ministral-8b-2410|7.4 %|92.6 %|99.9 %|196.0|
 |meta-llama/Llama-4-Scout-17B-16E-Instruct|7.7 %|92.3 %|99.0 %|137.3|
 |google/gemini-2.5-flash|7.8 %|92.2 %|99.0 %|101.5|
@@ -98,10 +100,12 @@ Last updated on March 20, 2026
 |MiniMaxAI/minimax-m2p1|11.8 %|88.2 %|98.5 %|106.9|
 |anthropic/claude-opus-4-20250514|12.0 %|88.0 %|91.0 %|123.2|
 |anthropic/claude-sonnet-4-5-20250929|12.0 %|88.0 %|95.6 %|127.8|
+|anthropic/claude-opus-4-7|12.0 %|88.0 %|98.0 %|149.1|
 |qwen/qwen3.5-27b|12.1 %|87.9 %|99.8 %|94.4|
 |openai/gpt-5.1-high-2025-11-13|12.1 %|87.9 %|100.0 %|254.4|
 |anthropic/claude-opus-4-6|12.2 %|87.8 %|99.8 %|137.6|
 |inceptionlabs/mercury-2|12.3 %|87.7 %|100.0 %|149.1|
+|MiniMaxAI/minimax-m2p7|12.9 %|87.1 %|99.4 %|131.9|
 |openai/gpt-5-mini-2025-08-07|12.9 %|87.1 %|99.9 %|169.7|
 |google/gemini-3-flash-preview|13.5 %|86.5 %|99.8 %|90.2|
 |google/gemini-3-pro-preview|13.6 %|86.4 %|99.4 %|101.9|
